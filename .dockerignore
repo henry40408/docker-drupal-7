@@ -1,2 +1,8 @@
+.circleci/
 .git/
 drupal-7/
+spec/
+.ruby-version
+Gemfile
+Gemfile.lock
+README.md
